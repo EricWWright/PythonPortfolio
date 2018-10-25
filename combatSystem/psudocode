@@ -1,0 +1,11 @@
+the program will first ask the user if they would like to fight or run.
+if the user chooses to run then they will be given the message of "you are a coward"
+and then it will say "game over" after that the game will exit.
+if the user chose to fight then it will calculate how much damage the user will do to the monster,
+after that it will calculate how much damage the monster will do, then it will print out how much
+damage has been done to the user, and how much damage has been done to the monster, and how much
+life each has left. Then the program will ask again if the user would like to fight or run (if the
+user is still alive of course). the program will loop again if the user decided to fight. if the user decided to 
+run then it would be game over. the program will continue to loop if the user still has health and the user decides
+to continue to fight untill the user dies or lives and defeats the monster. if the user defeats the monster then
+the program will say "you won" and then the program will exit.

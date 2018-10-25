@@ -1,0 +1,11 @@
+The program will first ask the user if they want to calculate the area
+of a circle if the user says yes then it will ask the user the radius of a circle
+and then it will take that input and calculate the area of the circle.
+if the user said no to calculating the area of a circle then it will ask the user
+if they would like to calculate for a side of a triangle if they input yes then it 
+will ask for the user to input the first side of the triangle, then it will ask the user
+to input the second side of the triangle, after that it will take those inputs and calculate
+the final side. If the user said no to calculating a for a side of a triangle, then it will ask
+the user if they want to add two numbers together. If the user says yes then it will ask the user
+for the first number, then it will ask the user for the second number, after that it will take those
+inputs and calculate the answer. If the user said no then the program says okay bye.

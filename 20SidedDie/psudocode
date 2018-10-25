@@ -1,0 +1,4 @@
+It will get input from the user and if yes is inputed then
+it will randomly select a number between 1 and 20
+then it will print out to the user the randomly selected number
+after that it will ask the user if they want to roll again
